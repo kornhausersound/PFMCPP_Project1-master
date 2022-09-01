@@ -52,84 +52,90 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: train                         // 1)
+//  action 1: the train moves           // 2)
+train.move();                           // 3)
+//  action 2: the train stops           // 2)
+train.stop();                           // 3)
+//  action 3: the train starts          
+train.start();
 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: guitar
+//  action 1: the guitar strums
+guitar.strum();
+//  action 2: the guitar plucks
+guitar.pluck();
+//  action 3: the guitar picks
+guitar.pick();
 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: phone
+//  action 1: the phone rings
+phone.ring();
+//  action 2: the phone mutes
+phone.mute()
+//  action 3: the phone vibrates
+phone.vibrate();
 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: mouse
+//  action 1: the mouse eats
+mouse.eats();
+//  action 2: the mouse runs
+mouse.runs();
+//  action 3: the mouse sits
+mouse.sit();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: person
+//  action 1: the person stands
+person.stand();
+//  action 2: the person sits
+person.sit();
+//  action 3: the person reads
+person.reads();
 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: shoe
+//  action 1: the shoe ties
+shoe.tie();
+//  action 2: the shoe moves
+shoe.moves();
+//  action 3: the shoe laces
+shoe.laces();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: speaker
+//  action 1: the speaker plays
+speaker.plays();
+//  action 2: the speaker mutes
+speaker.mute();
+//  action 3: the speaker moves
+speaker.moves();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: hammer
+//  action 1: the hammer hits
+hammer.hit();
+//  action 2: the hammer smashes
+hammer.smash();
+//  action 3: the hammer rests
+hammer.rest();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: key
+//  action 1: the key locks
+key.lock();
+//  action 2: the key unlocks
+key.unlock();
+//  action 3: the key drops
+key.drop();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: oven
+//  action 1: the oven cooks
+oven.cooks
+//  action 2: the oven burns
+oven.burns
+//  action 3: the oven cools
+    oven.cool();
 
 
 
